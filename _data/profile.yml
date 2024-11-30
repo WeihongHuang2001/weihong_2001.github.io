@@ -1,77 +1,47 @@
-primary_name: "Bo Qiu"
+primary_name: "Huang Weihong(黄蔚鸿)"
 secondary_name: ""
-navbar_name: "Bo Qiu"
+navbar_name: "Huang Weihong(黄蔚鸿)"
 
 positions:
-  - '<span class="no-break"><img src="assets/images/badges/WHU.png" alt="Wuhan University" class="inline-badge"/></span> M.S. Wuhan University (2022-Now)'
+  - '<span class="no-break"><img src="assets/images/badges/WHU.png" alt="Wuhan University" class="inline-badge"/></span> M.S. Wuhan University (2023-Now)'
 
-email: "boqiuphd@whu.edu.cn"
+email: "wongwh@whu.edu.cn"
 # cv_link: link-to-your-cv-file
-gscholar: pFebTGcAAAAJ
-github: boqiuphd
-linkedin: bo-qiu-935619319
-twitter: qbleslie1314
+gscholar: 6Q7I6IAAAAJ
+github: WeihongHuang2001
+# linkedin: bo-qiu-935619319
+# twitter: qbleslie1314
 
 short_bio: >-
   <p>
-    I am currently a third-year M.S. student at <a href="https://liesmars.whu.edu.cn/">LIESMARS</a>, <a href="https://en.whu.edu.cn/">Wuhan University</a>, under the supervision of Prof. <a href="https://dongzhenwhu.github.io/index.html">Zhen Dong</a> and Prof. <a href="http://3s.whu.edu.cn/ybs/index.htm">Bisheng Yang</a>.
-    Before this, I received the B.S. degree from the <a href="http://www.sgg.whu.edu.cn/">School of Geodesy and Geomatics</a>, <a href="https://en.whu.edu.cn/">Wuhan University</a>, in 2022.
+    I am currently a second-year M.S. student at <a href="https://liesmars.whu.edu.cn/">LIESMARS</a>, <a href="https://en.whu.edu.cn/">Wuhan University</a>, under the supervision of Prof. <a href="https://dongzhenwhu.github.io/index.html">Zhen Dong</a>.
+    Before this, I received the B.S. degree from the <a href="https://sges.sysu.edu.cn/">School of Geospatial Engineering and Science</a>, <a href="https://www.sysu.edu.cn/">Sun Yat-Sen University</a>, in 2023.
   </p>
   <p>
-    My research interests include 3D scene understanding, point cloud processing, and their applications in digital twin cities and intelligent transportation systems.
+    My research interests include 3D vision, scene understanding, point cloud processing, and interactive point cloud segmentation. Welcome to visit the homepage of our <a href="https://github.com/WHU-USI3DV">team</a>!
   </p>
 
 show_portrait: true
-portrait_url: assets/images/photos/boqiu.jpg
+portrait_url: assets/images/photos/huangweihong.jpg
 
 education:
 - name: LIESMARS, Wuhan University
   logo: assets/images/badges/WHU.png
   position: M.S. in Photogrammetry and Remote Sensing
-  date: Sep. 2022 - Now
+  date: Sep. 2023 - Now
 
-- name: SGG, Wuhan University
-  logo: assets/images/badges/WHU.png
-  position: B.S. in Geodesy and Geomatics Engineering
-  date: Sep. 2018 - Jun. 2022
-
+- name: SGES, Sun Yat-Sen University
+  logo: assets/images/badges/SYSU.jpg
+  position: B.S. in Remote Sensing
+  date: Sep. 2019 - Jun. 2023
 
 awards:
-- name: First Prize Scholarship (Top 5%), Wuhan University, Three Times
-  date: 2024, 2023, 2019
-- name: Outstanding Graduate Student (Top 10%), Wuhan University
-  date: 2024, 2023
-- name: The Best Paper Award (Top 10) at the 7th National LiDAR Conference
-  date: 2023
-- name: Grand Prize (Ranking 1st) in Data Processing Competition of the 7th National LiDAR Conference
-  date: 2023
-- name: 2nd Place Award in 3D Semantic Segmentation to the Open World (3DOW) Challenge, IROS
-  date: 2022
-- name: Outstanding Graduates (Top 5%), Wuhan University
-  date: 2022
-- name: Merit Student (Top 10%), Wuhan University
-  date: 2019
-- name: Hi-Target Special Scholarship (Top 10%), Wuhan University
-  date: 2019
-- name: Outstanding Student (Top 20%), Wuhan University, Twice
-  date: 2021, 2020
-# - name: Third Prize Scholarship (Top 25%), Wuhan University
-#   date: 2021
-- name: Second Prize Scholarship (Top 20%), Wuhan University
+- name: First Prize Scholarship, Sun Yat-Sen University
   date: 2020
-- name: Second Prize in MathorCup College Mathematical Modeling Challenge
-  date: 2021
-- name: National Second Prize in the Chinese Mathematics Competitions
-  date: 2019
-- name: Excellent Student Cadre, Wuhan University
-  date: 2019
-- name: Advanced Individual of Social Work, Wuhan University
-  date: 2019
-- name: Outstanding Volunteer, Wuhan University
-  date: 2019
-- name: First Prize for Outstanding Achievements in Volunteer Service, Wuhan University
-  date: 2019
+- name: Second Prize Scholarship, Sun Yat-Sen University, Twice
+  date: 2021, 2022
+- name: Wanglaoji Scholarship, Sun Yat-Sen University
+  date: 2020
 
 # footer_text: >-
 #   Thank <a href="https://luost.me/">Shitong Luo</a> for this wonderful <a href="https://github.com/luost26/academic-homepage" target="_blank"><i class="fas fa-pencil-ruler"></i> academic-homepage-templet</a>.
-
