@@ -39,4 +39,4 @@ plugins:
 
 collections:
   - publications
-  - projects
+  # - projects
