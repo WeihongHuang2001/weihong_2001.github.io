@@ -1,7 +1,7 @@
 ---
 title:          'Ubiquitous Point Cloud: Theory, Model, and Applications (1st ed.)'
 date:           2024-08-23 00:01:00 +0800
-selected:       true
+selected:       false
 pub:            "CRC Press"
 pub_date:       "2024"
 abstract: >-

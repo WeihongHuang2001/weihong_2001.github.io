@@ -1,7 +1,7 @@
 ---
 title:          'WHU-Railway3D: A Diverse Dataset and Benchmark for Railway Point Cloud Semantic Segmentation'
 date:           2024-08-24 00:01:00 +0800
-selected:       true
+selected:       false
 pub:            "IEEE TITS (In Press, SCI, JCR Q1, IF=7.9, TOP Journal in Engineering Technology)"
 pub_date:       "2024"
 abstract: >-

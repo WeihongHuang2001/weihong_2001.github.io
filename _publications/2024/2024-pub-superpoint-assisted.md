@@ -1,7 +1,7 @@
 ---
 title:          'Superpoint-Assisted Neural Radiance Fields for Point Cloud Semantic Segmentation without 3D Annotation'
 date:           2024-08-23 00:01:00 +0800
-selected:       true
+selected:       false
 pub:            "ISPRS Journal of Photogrammetry and Remote Sensing (Under Review, SCI, JCR Q1, IF=12.7, TOP Journal in Geosciences)"
 pub_date:       "2024"
 abstract: >-
